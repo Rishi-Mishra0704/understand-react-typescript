@@ -1,10 +1,10 @@
-interface inputProps{
-    placeholder:string,
-    value:string,
-    onChange: VoidFunction
+interface inputProps {
+  placeholder: string;
+  value: string;
+  onChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
 }
 
-function TextInput(props:inputProps) {
+function TextInput(props: inputProps) {
   return (
     <input
       type="text"
@@ -15,4 +15,4 @@ function TextInput(props:inputProps) {
   );
 }
 
-export default TextInput
+export default TextInput;
