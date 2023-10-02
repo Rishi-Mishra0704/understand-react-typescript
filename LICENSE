@@ -21,14 +21,23 @@ This project aims to provide practical examples and explanations to help you gra
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/Rishi-Mishra0704/understand-react-typescript
+git clone https://github.com/your-username/understanding-react-typescript.git
+
+markdown
+Copy code
 
 2. Install the project dependencies:
-   cd understanding-react-typescript
-   npm install
+cd understanding-react-typescript
+npm install
+
+markdown
+Copy code
 
 3. Start the development server:
-   npm start
+npm start
+
+markdown
+Copy code
 
 4. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to see the project in action.
 
@@ -70,4 +79,4 @@ We appreciate your contributions and the opportunity to make this project even m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) 
